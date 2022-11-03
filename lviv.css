@@ -1,0 +1,121 @@
+body{
+    font-family: 'Lato', sans-serif;
+
+}
+
+.main{
+    padding: 0 180px 0 118px;
+}
+
+
+.header-container{
+    background: black;
+    padding: 20px 100px;
+
+
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.logo{
+    align-items: center;
+    max-width: 150px;
+    max-height: 20px;
+}
+
+.search-header{
+    background: black;
+    color: white;
+    border-color: white;
+    box-shadow: white;
+    width: 190px;
+    height: 20px;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.submit-header{
+    width: 70px;
+    height: 30px;
+    background: white;
+    box-shadow: none;
+    border: none;
+    color: black;
+}
+
+.top-block{
+    padding: 150px 180px ;
+}
+
+.top-block-tittle{
+    text-decoration: none;
+    color: black;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 60px;
+    margin-bottom: 50px;
+}
+
+.top-block-text{
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 34px;
+    color: black;
+    margin-bottom: 100px;
+}
+
+.form{
+    padding: 90px 100px;
+    box-shadow: 0 2px 20px rgba(21, 24, 36, 0.15993);
+}
+
+.chose-block{
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-title{
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 42px;
+    text-decoration: none;
+    margin-bottom: 80px;
+}
+.place{
+    margin-bottom: 40px;
+
+}
+
+.submit-main{
+    background: black;
+    color: white;
+    border: black;
+    padding: 10px;
+}
+
+.placeholder{
+    width: 500px;
+    height: 300px;
+}
+
+footer{
+    display: flex;
+    background: black;
+    color: white;
+    padding: 120px 200px;
+    justify-content: space-between;
+}
+
+.social{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+
+}
